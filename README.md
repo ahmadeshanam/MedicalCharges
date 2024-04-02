@@ -6,5 +6,4 @@ This project will predict your medical costs using Multiple Linear Regression me
 
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
-
 ![ML](https://img.shields.io/badge/Machine_Learning-green)
